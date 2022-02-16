@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.forloop.ForLoopTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-02-13T19:42:35" hostname="cosmol-mbp" time="0.031">
+  <properties/>
+  <testcase name="printsToThirdEntry()" classname="com.example.forloop.ForLoopTest" time="0.029"/>
+  <testcase name="printsAllNamesExceptExcluded()" classname="com.example.forloop.ForLoopTest" time="0.001"/>
+  <testcase name="printsArray()" classname="com.example.forloop.ForLoopTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
